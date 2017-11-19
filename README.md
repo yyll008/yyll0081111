@@ -7,9 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 https://github.com/yyll008/DataAnalysisZero
 
 ### Analysis work start
+```
 source activate gluon
 MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter notebook
 
+```
 ```markdown
 Syntax highlighted code block
 

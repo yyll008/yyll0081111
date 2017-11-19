@@ -3,9 +3,10 @@
 You can use the [editor on GitHub](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## refer
+https://github.com/yyll008/DataAnalysisZero
 
-### Markdown
-### work start
+### Analysis work start
 source activate gluon
 MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter notebook
 

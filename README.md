@@ -17,6 +17,11 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 #### 数据探索作图
 [seaborn批量作图](https://www.kaggle.com/neviadomski/data-exploration-porto-seguro-s-safe-driver) 
 
+#### 线性回归
+[房价预测理解线性回归教程版](https://www.kaggle.com/bsivavenu/house-price-calculation-methods-for-beginners) 
+
+
+
 
 ```markdown
 Syntax highlighted code block

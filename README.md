@@ -1,9 +1,9 @@
 ## DataAnalysis
 
-You can use the [editor on GitHub](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[editor](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-## refer
+## Install
 https://github.com/yyll008/DataAnalysisZero
 
 ### Analysis work start
@@ -13,6 +13,10 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 ```
 ### Kaggle问题一般分析流程
 [sklearn数据分析框架](http://www.cnblogs.com/DjangoBlog/p/6294837.html) 
+
+#### 数据探索作图
+[seaborn批量作图](https://www.kaggle.com/neviadomski/data-exploration-porto-seguro-s-safe-driver) 
+
 
 ```markdown
 Syntax highlighted code block

@@ -31,6 +31,8 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 ## 高阶分析
 
 ### 有趣的数学
+1. 大数定律、中心极限定律
+2. [大数定律](https://github.com/yyll008/yyll008.github.io/edit/master/math_fun.md) 
 
 - Bulleted
 - List

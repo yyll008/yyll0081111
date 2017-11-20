@@ -12,6 +12,11 @@ source activate gluon
 MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter notebook
 ```
 ```markdown
+### Kaggle问题一般分析流程
+[test](http://www.cnblogs.com/DjangoBlog/p/6294837.html) 
+
+
+```markdown
 Syntax highlighted code block
 
 # Header 1

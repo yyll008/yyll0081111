@@ -3,7 +3,7 @@
 [editor](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Install
+### Install
 https://github.com/yyll008/DataAnalysisZero
 
 ### Analysis work start
@@ -21,12 +21,12 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 [房价预测——深刻理解线性回归](https://www.kaggle.com/bsivavenu/house-price-calculation-methods-for-beginners) 
 
 
-```markdown
+### kaggle获奖方案
+[Two Sigma Connect: Rental Listing Inquiries--top1 ](https://github.com/plantsgo/Rental-Listing-Inquiries) 
+
 
 # 数据分析——从0到1
 ## 高阶分析
-### kaggle获奖方案
-[Two Sigma Connect: Rental Listing Inquiries--top1 ](https://github.com/plantsgo/Rental-Listing-Inquiries) 
 
 ### 有趣的数学
 

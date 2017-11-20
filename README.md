@@ -18,17 +18,17 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 [seaborn批量作图](https://www.kaggle.com/neviadomski/data-exploration-porto-seguro-s-safe-driver) 
 
 #### 线性回归
-[房价预测理解线性回归教程版](https://www.kaggle.com/bsivavenu/house-price-calculation-methods-for-beginners) 
-
-
+[房价预测——深刻理解线性回归](https://www.kaggle.com/bsivavenu/house-price-calculation-methods-for-beginners) 
 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 数据分析——从0到1
+## 高阶分析
+### kaggle获奖方案
+[Two Sigma Connect: Rental Listing Inquiries--top1 ](https://github.com/plantsgo/Rental-Listing-Inquiries) 
+
+### 有趣的数学
 
 - Bulleted
 - List

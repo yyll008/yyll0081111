@@ -15,8 +15,8 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 [sklearn数据分析框架](http://www.cnblogs.com/DjangoBlog/p/6294837.html) 
 
 #### 数据探索作图
-[porto识别seaborn批量作图](https://www.kaggle.com/neviadomski/data-exploration-porto-seguro-s-safe-driver) 
-[房价预测——数据探索及变量分析](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) 
+1. [porto识别seaborn批量作图](https://www.kaggle.com/neviadomski/data-exploration-porto-seguro-s-safe-driver) 
+2. [房价预测——数据探索及变量分析](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) 
 
 
 #### 线性回归

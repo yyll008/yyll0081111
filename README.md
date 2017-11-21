@@ -41,8 +41,9 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-### Jekyll Themes
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yyll008/yyll008.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+```
+### Contact me
+github：https://github.com/yyll008
+kggle：https://www.kaggle.com/yyll008
+gmail：yyll2012007@gmail.com

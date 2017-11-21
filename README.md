@@ -139,19 +139,15 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 
 
 
-# 飞行数据相关code
+# 飞行数据分析
 - [QAR_Reader](https://github.com/Jules-7/QAR_Reader)
 - [FlightDataServices](https://github.com/FlightDataServices/FlightDataAnalyzer)
 
-1. Numbered
+1. [Predicting flight delays](https://www.kaggle.com/fabiendaniel/predicting-flight-delays-tutorial/notebook)
 2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 ```
 ### Contact me
-github：https://github.com/yyll008
-kggle：https://www.kaggle.com/yyll008
-gmail：yyll2012007@gmail.com
+- github：https://github.com/yyll008
+- kaggle：https://www.kaggle.com/yyll008
+- gmail：yyll2012007@gmail.com

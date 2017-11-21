@@ -1,7 +1,6 @@
 ## DataAnalysis
 
-[editor](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[My_Editor_This md](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
 
 ### Install
 https://github.com/yyll008/DataAnalysisZero
@@ -31,8 +30,7 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 ## 高阶分析
 
 ### 有趣的数学
-1. 大数定律、中心极限定律
-2. [大数定律](https://github.com/yyll008/yyll008.github.io/edit/master/math_fun.md) 
+1. [大数定律、中心极限定律](https://github.com/yyll008/yyll008.github.io/edit/master/math_fun.md) 
 
 - Bulleted
 - List

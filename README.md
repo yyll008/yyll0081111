@@ -1,6 +1,6 @@
-## DataAnalysis
+### DataAnalysis
 
-[My_Editor_This md](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
+[Editor_This](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
 
 ### Install
 https://github.com/yyll008/DataAnalysisZero
@@ -11,18 +11,19 @@ source activate gluon
 MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter notebook
 ```
 ### Kaggle问题一般分析流程
+[data-sciencetutorial](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
 [sklearn数据分析框架](http://www.cnblogs.com/DjangoBlog/p/6294837.html) 
 
-#### 数据探索作图
+#### kaggle数据探索作图
 1. [porto识别seaborn批量作图](https://www.kaggle.com/neviadomski/data-exploration-porto-seguro-s-safe-driver) 
 2. [房价预测——数据探索及变量分析](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) 
 
 
-#### 线性回归
+#### kaggle线性回归
 [房价预测——深刻理解线性回归](https://www.kaggle.com/bsivavenu/house-price-calculation-methods-for-beginners) 
 
 
-### kaggle获奖方案
+#### kaggle获奖方案
 [Two Sigma Connect: Rental Listing Inquiries--top1 ](https://github.com/plantsgo/Rental-Listing-Inquiries) 
 
 
@@ -51,8 +52,6 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 标称型:标称型目标变量的结果只在有限目标集中取值
 数值型:数值型目标变量则可以从无限的数值集合中取值
 ```
-
-![](pic/kNN.jpg)<br/>
 
 #### 决策树
 

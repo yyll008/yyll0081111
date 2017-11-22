@@ -24,8 +24,8 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 
 
 #### kaggle获奖方案
-[Two Sigma Connect: Rental Listing Inquiries--top1 ](https://github.com/plantsgo/Rental-Listing-Inquiries) 
-[Web Traffic Time Series Forecasting](https://github.com/Arturus/kaggle-web-traffic)(https://www.kaggle.com/c/web-traffic-time-series-forecasting)
+- [Two Sigma Connect: Rental Listing Inquiries--top1 ](https://github.com/plantsgo/Rental-Listing-Inquiries) 
+- [Web Traffic Time Series Forecasting](https://github.com/Arturus/kaggle-web-traffic)(https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 
 
 # 数据分析——从0到1

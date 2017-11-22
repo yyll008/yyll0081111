@@ -11,9 +11,9 @@ source activate gluon
 MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter notebook
 ```
 ### Kaggle问题一般分析流程
-[data-sciencetutorial](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
-[sklearn数据分析框架](http://www.cnblogs.com/DjangoBlog/p/6294837.html) 
-[特征工程及数据可视化案例](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization/)
+1. [data-sciencetutorial](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
+2. [sklearn数据分析框架](http://www.cnblogs.com/DjangoBlog/p/6294837.html) 
+3. [特征工程及数据可视化案例](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization/)
 
 #### kaggle数据探索作图
 1. [porto识别seaborn批量作图](https://www.kaggle.com/neviadomski/data-exploration-porto-seguro-s-safe-driver) 

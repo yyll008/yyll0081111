@@ -19,6 +19,9 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 1. [porto识别seaborn批量作图](https://www.kaggle.com/neviadomski/data-exploration-porto-seguro-s-safe-driver) 
 2. [房价预测——数据探索及变量分析](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) 
 
+#### kaggle数据降维处理
+1. [porto识别PCA\TSNE降维](https://www.kaggle.com/tilii7/dimensionality-reduction-pca-tsne/notebook)
+
 
 #### kaggle线性回归
 [房价预测——深刻理解线性回归](https://www.kaggle.com/bsivavenu/house-price-calculation-methods-for-beginners) 

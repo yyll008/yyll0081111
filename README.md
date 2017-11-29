@@ -144,6 +144,7 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 
 # 计算机知识
 1. [多核多进程计算](https://github.com/yyll008/yyll008.github.io/edit/master/computer_refer.md) 
+2.[多进程计算案例](https://www.kaggle.com/yyll008/keras-nn-with-rec-layers-sentiment-etc-2/edit)
 
 
 # 飞行数据分析

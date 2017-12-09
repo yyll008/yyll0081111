@@ -35,6 +35,10 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 
 # 数据分析——从0到1
 
+### 特征选择
+
+[特征选择](https://www.zhihu.com/question/28641663/answer/41653367)
+
 ### 学习资源
 
 [机器学习算法原理](https://github.com/wepe/MachineLearning)<br/>

@@ -17,6 +17,7 @@ source activate skorch
 1. [data-sciencetutorial](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
 2. [sklearn数据分析框架](http://www.cnblogs.com/DjangoBlog/p/6294837.html) 
 3. [特征工程及数据可视化案例](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization/)
+4. [房价预测-pandas/sklearn](https://www.kaggle.com/timolee/a-home-for-pandas-and-sklearn-beginner-how-tos)
 
 #### kaggle数据探索作图
 1. [porto识别seaborn批量作图](https://www.kaggle.com/neviadomski/data-exploration-porto-seguro-s-safe-driver) 

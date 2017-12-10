@@ -9,6 +9,9 @@ https://github.com/yyll008/DataAnalysisZero
 ```
 source activate gluon
 MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter notebook
+
+source activate skorch
+
 ```
 ### Kaggle问题一般分析流程
 1. [data-sciencetutorial](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)

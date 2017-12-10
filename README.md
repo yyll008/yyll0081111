@@ -35,6 +35,9 @@ MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter no
 
 # 数据分析——从0到1
 
+### 常用算法包
+[lgb_xgb](http://www.jianshu.com/p/48e82dbb142b)
+
 ### 特征选择
 
 [特征选择](https://www.zhihu.com/question/28641663/answer/41653367)

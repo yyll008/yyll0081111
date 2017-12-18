@@ -5,6 +5,10 @@
 ### Install
 https://github.com/yyll008/DataAnalysisZero
 
+### notebook 
+Hierarchical
+dbscan
+
 ### Analysis work start
 ```
 source activate gluon

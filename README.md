@@ -9,7 +9,7 @@ https://github.com/yyll008/DataAnalysisZero
 1. Hierarchical
 2. dbscan
 ### To Do kaggle
-1. a-simple-nn-solution-with-keras_1024-512-64 Versions(6)
+1. dataset['item_description'].fillna(value='No description yet', inplace=True)
 2. data.category.value_counts().plot(kind='bar', grid=True, figsize=(16, 9))
 
 

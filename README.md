@@ -10,7 +10,7 @@ https://github.com/yyll008/DataAnalysisZero
 2. dbscan
 ### To Do kaggle
 1. a-simple-nn-solution-with-keras_1024-512-64 Versions(6)
-2. 
+2. data.category.value_counts().plot(kind='bar', grid=True, figsize=(16, 9))
 
 
 ### Analysis work start

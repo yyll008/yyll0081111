@@ -17,6 +17,7 @@ https://github.com/yyll008/DataAnalysisZero
 ```
 source activate gluon
 MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter notebook
+jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10
 
 source activate skorch
 

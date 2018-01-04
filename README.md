@@ -12,7 +12,7 @@ https://github.com/yyll008/DataAnalysisZero
 
 1. dataset['item_description'].fillna(value='No description yet', inplace=True)
 2. data.category.value_counts().plot(kind='bar', grid=True, figsize=(16, 9))
-3.https://www.kaggle.com/inoryy/fast-glove-data-import-multiprocessing
+3. https://www.kaggle.com/inoryy/fast-glove-data-import-multiprocessing
 
 
 ### Analysis work start

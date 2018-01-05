@@ -13,8 +13,14 @@ https://github.com/yyll008/DataAnalysisZero
 1. dataset['item_description'].fillna(value='No description yet', inplace=True)
 2. data.category.value_counts().plot(kind='bar', grid=True, figsize=(16, 9))
 3. https://www.kaggle.com/inoryy/fast-glove-data-import-multiprocessing
-4. http://aclweb.org/anthology/P/P17/P17-1052.pdf
-5. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3070217/pdf/CIN2011-406391.pdf
+
+
+### Parper To Read
+#### Text
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3070217/pdf/CIN2011-406391.pdf
+
+#### Feature Work
+1. [PyEEG: An Open Source Python Module for EEG/MEG Feature Extraction]http://aclweb.org/anthology/P/P17/P17-1052.pdf
 
 
 ### Analysis work start

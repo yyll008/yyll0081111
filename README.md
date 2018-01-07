@@ -20,7 +20,8 @@ https://github.com/yyll008/DataAnalysisZero
 1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3070217/pdf/CIN2011-406391.pdf
 
 #### Feature Work
-1. [PyEEG: An Open Source Python Module for EEG/MEG Feature Extraction]http://aclweb.org/anthology/P/P17/P17-1052.pdf
+1.[PyEEG: An Open Source Python Module for EEG/MEG Feature Extraction]http://aclweb.org/anthology/P/P17/P17-1052.pdf
+2.[Particle Clustering Machine: A Dynamical System Based Approach]https://arxiv.org/pdf/1801.01017.pdf
 
 
 ### Analysis work start

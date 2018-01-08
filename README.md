@@ -3,7 +3,7 @@
 [Editor_This](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
 
 ### To Do First
-
+source activate tensorflow 
 
 ### Install
 https://github.com/yyll008/DataAnalysisZero

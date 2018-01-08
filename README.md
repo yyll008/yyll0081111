@@ -2,6 +2,11 @@
 
 [Editor_This](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
 
+### To Do First
+1.source activate allennlp
+2.python -m spacy download en_core_web_sm
+3.conda install -c aaronzs tensorflow-gpu 
+
 ### Install
 https://github.com/yyll008/DataAnalysisZero
 

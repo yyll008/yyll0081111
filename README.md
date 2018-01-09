@@ -3,7 +3,7 @@
 [Editor_This](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
 
 ### To Do First
-source activate tensorflow 
+https://www.kaggle.com/pranav84/surprise-me-h2o-automl-version
 
 ### Install
 https://github.com/yyll008/DataAnalysisZero
@@ -29,7 +29,9 @@ https://github.com/yyll008/DataAnalysisZero
 
 ### Analysis work start
 ```
+source activate tensorflow 
 source activate gluon
+
 MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter notebook
 jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10
 

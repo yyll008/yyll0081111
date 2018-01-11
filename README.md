@@ -3,6 +3,9 @@
 [Editor_This](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
 
 ### To Do First
+sudo apt install nvidia-381* nvidia-settings --fix-missing
+
+
 https://github.com/matterport/Mask_RCNN/releases
 
 https://github.com/QuantScientist/Deep-Learning-Boot-Camp/blob/master/day02-PyTORCH-and-PyCUDA/PyTorch/55-PyTorch-using-CONV1D-on-one-dimensional-data-CNN.ipynb

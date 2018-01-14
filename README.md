@@ -3,9 +3,6 @@
 [Editor_This](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
 
 ### To Do First
-sudo apt install nvidia-381* nvidia-settings --fix-missing
-
-
 https://github.com/matterport/Mask_RCNN/releases
 
 https://github.com/QuantScientist/Deep-Learning-Boot-Camp/blob/master/day02-PyTORCH-and-PyCUDA/PyTorch/55-PyTorch-using-CONV1D-on-one-dimensional-data-CNN.ipynb
@@ -30,6 +27,7 @@ https://github.com/yyll008/DataAnalysisZero
 ### Parper To Read
 #### Text
 1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3070217/pdf/CIN2011-406391.pdf
+2. https://arxiv.org/abs/1711.07476v1
 
 #### Feature Work
 1.[PyEEG: An Open Source Python Module for EEG/MEG Feature Extraction]http://aclweb.org/anthology/P/P17/P17-1052.pdf

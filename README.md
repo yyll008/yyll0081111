@@ -5,6 +5,8 @@
 ### To Do First
 https://www.kaggle.com/derekdixu/end-to-end-baseline-tf-estimator-lb-0-72-dx
 
+https://www.kaggle.com/dongxu027/explore-stacking-lb-0-1463
+
 https://github.com/matterport/Mask_RCNN/releases
 
 https://github.com/QuantScientist/Deep-Learning-Boot-Camp/blob/master/day02-PyTORCH-and-PyCUDA/PyTorch/55-PyTorch-using-CONV1D-on-one-dimensional-data-CNN.ipynb

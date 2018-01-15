@@ -3,6 +3,8 @@
 [Editor_This](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
 
 ### To Do First
+https://www.kaggle.com/derekdixu/end-to-end-baseline-tf-estimator-lb-0-72-dx
+
 https://github.com/matterport/Mask_RCNN/releases
 
 https://github.com/QuantScientist/Deep-Learning-Boot-Camp/blob/master/day02-PyTORCH-and-PyCUDA/PyTorch/55-PyTorch-using-CONV1D-on-one-dimensional-data-CNN.ipynb

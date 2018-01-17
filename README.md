@@ -3,6 +3,9 @@
 [Editor_This](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
 
 ### To Do First
+
+array([[ 0.49384141,  0.20273338,  0.27652082]], dtype=float32)
+
 https://www.kaggle.com/derekdixu/end-to-end-baseline-tf-estimator-lb-0-72-dx
 
 https://www.kaggle.com/dongxu027/explore-stacking-lb-0-1463

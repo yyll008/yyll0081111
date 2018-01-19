@@ -4,6 +4,7 @@
 
 ### To Do First
 https://www.kaggle.com/gaborfodor/seedlings-pretrained-keras-models
+http://pyradar-tools.readthedocs.io/en/latest/tutorial.html
 
 https://www.kaggle.com/derekdixu/end-to-end-baseline-tf-estimator-lb-0-72-dx
 

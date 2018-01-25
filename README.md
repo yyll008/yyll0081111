@@ -1,8 +1,11 @@
 ### DataAnalysis
 
 [Editor_This](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
+vim ~/.bashrc
 
 ### To Do First
+
+
 https://www.kaggle.com/gaborfodor/seedlings-pretrained-keras-models
 http://pyradar-tools.readthedocs.io/en/latest/tutorial.html
 

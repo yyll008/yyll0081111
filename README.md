@@ -1,11 +1,10 @@
 ### DataAnalysis
 
 [Editor_This](https://github.com/yyll008/yyll008.github.io/edit/master/README.md) 
+
 vim ~/.bashrc
 
 ### To Do First
-https://github.com/QuantScientist/Deep-Learning-Boot-Camp/blob/master/day02-PyTORCH-and-PyCUDA/PyTorch/55-PyTorch-using-CONV1D-on-one-dimensional-data-CNN.ipynb
-
 http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf
 http://riejohnson.com/paper/dpcnn-acl17.pdf
 

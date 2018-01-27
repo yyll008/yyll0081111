@@ -4,17 +4,6 @@
 vim ~/.bashrc
 
 ### To Do First
-
-
-https://www.kaggle.com/gaborfodor/seedlings-pretrained-keras-models
-http://pyradar-tools.readthedocs.io/en/latest/tutorial.html
-
-https://www.kaggle.com/derekdixu/end-to-end-baseline-tf-estimator-lb-0-72-dx
-
-https://www.kaggle.com/dongxu027/explore-stacking-lb-0-1463
-
-https://github.com/matterport/Mask_RCNN/releases
-
 https://github.com/QuantScientist/Deep-Learning-Boot-Camp/blob/master/day02-PyTORCH-and-PyCUDA/PyTorch/55-PyTorch-using-CONV1D-on-one-dimensional-data-CNN.ipynb
 
 http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf
@@ -24,14 +13,14 @@ http://riejohnson.com/paper/dpcnn-acl17.pdf
 ### Install
 https://github.com/yyll008/DataAnalysisZero
 
+
+sudo cp -i resnet152_v1-48ce7775.params ~/.mxnet/models
+
 ### notebook 
 1. Hierarchical
 2. dbscan
 ### To Do kaggle
-
-1. dataset['item_description'].fillna(value='No description yet', inplace=True)
-2. data.category.value_counts().plot(kind='bar', grid=True, figsize=(16, 9))
-3. https://www.kaggle.com/inoryy/fast-glove-data-import-multiprocessing
+1. https://www.kaggle.com/inoryy/fast-glove-data-import-multiprocessing
 
 
 ### Parper To Read

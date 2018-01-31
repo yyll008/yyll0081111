@@ -5,6 +5,7 @@
 vim ~/.bashrc
 
 ### To Do First
+https://openreview.net/group?id=ICLR.cc/2018/Conference
 http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf
 http://riejohnson.com/paper/dpcnn-acl17.pdf
 

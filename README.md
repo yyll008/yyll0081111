@@ -5,7 +5,12 @@
 vim ~/.bashrc
 
 ### To Do First
-python train.py -g 1 -b 16 -cs 512 -cm ResNet50 -x -l 1e-4 -uiw
+
+glove 50d pretrained vectors
+
+https://www.kaggle.com/nzw0301/simple-keras-fasttext-val-loss-0-31
+
+https://www.kaggle.com/yyll008/item-description-cnn/edit
 
 https://openreview.net/group?id=ICLR.cc/2018/Conference
 http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf

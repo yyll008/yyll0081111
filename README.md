@@ -5,6 +5,8 @@
 vim ~/.bashrc
 
 ### To Do First
+https://github.com/dhingratul/Stock-Price-Prediction/blob/master/src/timeSeriesPredict.py
+
 https://explosion.ai/blog/deep-learning-formula-nlp
 
 https://stackoverflow.com/questions/41032551/how-to-compute-receiving-operating-characteristic-roc-and-auc-in-keras

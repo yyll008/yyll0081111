@@ -5,6 +5,8 @@
 vim ~/.bashrc
 
 ### To Do First
+https://github.com/ShadyF/cnn-rnn-classifier/blob/master/cnn_rnn_classifier.py
+
 https://github.com/dhingratul/Stock-Price-Prediction/blob/master/src/timeSeriesPredict.py
 
 https://github.com/bicepjai/Deep-Survey-Text-Classification

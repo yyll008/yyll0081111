@@ -6,6 +6,8 @@ vim ~/.bashrc
 
 ### To Do First
 
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/50827
+
 https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb
 
 https://github.com/ShadyF/cnn-rnn-classifier/blob/master/cnn_rnn_classifier.py

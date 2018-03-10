@@ -4,6 +4,10 @@
 
 vim ~/.bashrc
 
+#### 学习知识点
+
+1. [深入理解拉格朗日乘子法（Lagrange Multiplier) 和KKT条件](http://blog.csdn.net/xianlingmao/article/details/7919597) 
+
 ### To Do First
 
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/50827

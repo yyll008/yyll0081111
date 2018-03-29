@@ -10,6 +10,7 @@ vim ~/.bashrc
 
 ### To Do First
 
+
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/50827
 
 https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb
@@ -33,7 +34,9 @@ https://www.kaggle.com/yyll008/item-description-cnn/edit
 https://openreview.net/group?id=ICLR.cc/2018/Conference
 http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf
 http://riejohnson.com/paper/dpcnn-acl17.pdf
+### To Read
 
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650730721&idx=2&sn=95b97b80188f507c409f4c72bd0a2767&chksm=871b349fb06cbd891771f72d77563f77986afc9b144f42c8232db44c7c56c1d2bc019458c4e4&scene=21#wechat_redirect
 
 ### Install
 https://github.com/yyll008/DataAnalysisZero

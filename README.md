@@ -8,11 +8,13 @@ vim ~/.bashrc
 
 1. [深入理解拉格朗日乘子法（Lagrange Multiplier) 和KKT条件](http://blog.csdn.net/xianlingmao/article/details/7919597) 
 
-### To Do First
+### 学习网址
 
 http://cs231n.github.io/convolutional-networks/
 
-https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/50827
+http://dlsys.cs.washington.edu/
+
+### To Do First
 
 https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb
 

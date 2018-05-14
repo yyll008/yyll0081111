@@ -19,9 +19,10 @@ http://dlsys.cs.washington.edu/
 
 ### 算法基础
 
+https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md
 
 ### To Read
-https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650730721&idx=2&sn=95b97b80188f507c409f4c72bd0a2767&chksm=871b349fb06cbd891771f72d77563f77986afc9b144f42c8232db44c7c56c1d2bc019458c4e4&scene=21#wechat_redirect
+
 
 ### Install
 https://github.com/yyll008/DataAnalysisZero

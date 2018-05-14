@@ -10,6 +10,7 @@ vim ~/.bashrc
 
 ### To Do First
 
+http://cs231n.github.io/convolutional-networks/
 
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/50827
 

@@ -16,34 +16,15 @@ http://dlsys.cs.washington.edu/
 
 ### To Do First
 
-https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb
 
-https://github.com/ShadyF/cnn-rnn-classifier/blob/master/cnn_rnn_classifier.py
+### 算法基础
 
-https://github.com/dhingratul/Stock-Price-Prediction/blob/master/src/timeSeriesPredict.py
 
-https://github.com/bicepjai/Deep-Survey-Text-Classification
-
-https://explosion.ai/blog/deep-learning-formula-nlp
-
-https://stackoverflow.com/questions/41032551/how-to-compute-receiving-operating-characteristic-roc-and-auc-in-keras
-
-glove 50d pretrained vectors
-
-https://www.kaggle.com/nzw0301/simple-keras-fasttext-val-loss-0-31
-
-https://www.kaggle.com/yyll008/item-description-cnn/edit
-
-https://openreview.net/group?id=ICLR.cc/2018/Conference
-http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf
-http://riejohnson.com/paper/dpcnn-acl17.pdf
 ### To Read
-
 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650730721&idx=2&sn=95b97b80188f507c409f4c72bd0a2767&chksm=871b349fb06cbd891771f72d77563f77986afc9b144f42c8232db44c7c56c1d2bc019458c4e4&scene=21#wechat_redirect
 
 ### Install
 https://github.com/yyll008/DataAnalysisZero
-
 
 sudo cp -i resnet152_v1-48ce7775.params ~/.mxnet/models
 

@@ -16,6 +16,10 @@ http://dlsys.cs.washington.edu/
 
 ### To Do First
 
+### stack ensemble
+1 https://mlwave.com/kaggle-ensembling-guide/
+
+2 https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
 
 ### 算法基础
 

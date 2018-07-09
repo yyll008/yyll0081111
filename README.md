@@ -10,7 +10,8 @@ vim ~/.bashrc
 3. [NLP word2vec](https://blog.csdn.net/itplus/article/details/37969817)
 4. [特征选择](https://zhuanlan.zhihu.com/p/32749489)
 5. [最大熵模型原理小结](http://www.cnblogs.com/pinard/p/6093948.html)
-6. [判别模型与生成模型](https://zhuanlan.zhihu.com/p/32655097)
+6. [朴素贝叶斯算法原理小结](http://www.cnblogs.com/pinard/p/6069267.html)
+7. [判别模型与生成模型](https://zhuanlan.zhihu.com/p/32655097)
 
 #### 学习知识点
 

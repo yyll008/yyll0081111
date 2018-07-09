@@ -9,6 +9,7 @@ vim ~/.bashrc
 2. [机器学习干货](https://zhuanlan.zhihu.com/p/32877396)
 3. [NLP word2vec](https://blog.csdn.net/itplus/article/details/37969817)
 4. [特征选择](https://zhuanlan.zhihu.com/p/32749489)
+5. [最大熵模型原理小结](http://www.cnblogs.com/pinard/p/6093948.html)
 
 
 #### 学习知识点

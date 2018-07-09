@@ -15,6 +15,9 @@ vim ~/.bashrc
 1. [深入理解拉格朗日乘子法（Lagrange Multiplier) 和KKT条件](http://blog.csdn.net/xianlingmao/article/details/7919597) 
 2. [Dart Booster](https://blog.csdn.net/Yongchun_Zhu/article/details/78745529)
 
+#### 数据可视化
+1.[Seaborn(sns)官方文档学习笔记](https://zhuanlan.zhihu.com/p/27435863)
+
 ### 学习网址
 
 http://cs231n.github.io/convolutional-networks/

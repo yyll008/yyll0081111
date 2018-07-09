@@ -8,6 +8,7 @@ vim ~/.bashrc
 1. [机器学习/数据挖掘](http://www.cnblogs.com/tornadomeet/p/3395593.html)
 2. [机器学习干货](https://zhuanlan.zhihu.com/p/32877396)
 3. [NLP word2vec](https://blog.csdn.net/itplus/article/details/37969817)
+4. [特征选择](https://zhuanlan.zhihu.com/p/32749489)
 
 
 #### 学习知识点

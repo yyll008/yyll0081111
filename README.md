@@ -6,6 +6,8 @@ vim ~/.bashrc
 
 #### 笔记
 1. [机器学习/数据挖掘](http://www.cnblogs.com/tornadomeet/p/3395593.html)
+2. [机器学习干货](https://zhuanlan.zhihu.com/p/32877396)
+
 
 
 #### 学习知识点

@@ -4,6 +4,10 @@
 
 vim ~/.bashrc
 
+#### 笔记
+1. [机器学习/数据挖掘](http://www.cnblogs.com/tornadomeet/p/3395593.html)
+
+
 #### 学习知识点
 
 1. [深入理解拉格朗日乘子法（Lagrange Multiplier) 和KKT条件](http://blog.csdn.net/xianlingmao/article/details/7919597) 

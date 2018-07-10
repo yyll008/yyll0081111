@@ -12,6 +12,7 @@ vim ~/.bashrc
 5. [最大熵模型原理小结](http://www.cnblogs.com/pinard/p/6093948.html)
 6. [朴素贝叶斯算法原理小结](http://www.cnblogs.com/pinard/p/6069267.html)
 7. [判别模型与生成模型](https://zhuanlan.zhihu.com/p/32655097)
+8. [数据科学家最常用的十大机器学习算法](https://zhuanlan.zhihu.com/p/37493944)
 
 #### 学习知识点
 

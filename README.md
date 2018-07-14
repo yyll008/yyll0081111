@@ -6,6 +6,7 @@ vim ~/.bashrc
 
 #### Awesome
 1. [Awesome kaggle kernels](https://www.kaggle.com/yyll008/data-science-glossary-on-kaggle-ea6b2a)
+2. [LeetCode](https://github.com/kamyu104/LeetCode)
 
 #### 笔记
 1. [机器学习/数据挖掘](http://www.cnblogs.com/tornadomeet/p/3395593.html)

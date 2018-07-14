@@ -9,7 +9,10 @@ vim ~/.bashrc
 3. [pandas_exercises](https://github.com/guipsamora/pandas_exercises)
 4. [ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) 
 5. [DeepLearn](https://github.com/priya-dwivedi/Deep-Learning) 
-6. [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)  
+6. [GrokkingDeepLearn](https://github.com/iamtrask/Grokking-Deep-Learning) 
+7. [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)  
+
+
 
 
 #### 笔记

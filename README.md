@@ -11,7 +11,7 @@ vim ~/.bashrc
 5. [DeepLearn](https://github.com/priya-dwivedi/Deep-Learning) 
 6. [GrokkingDeepLearn](https://github.com/iamtrask/Grokking-Deep-Learning) 
 7. [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)  
-
+8. [pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner)  
 
 
 

@@ -25,6 +25,7 @@ vim ~/.bashrc
 6. [朴素贝叶斯算法原理小结](http://www.cnblogs.com/pinard/p/6069267.html)
 7. [判别模型与生成模型](https://zhuanlan.zhihu.com/p/32655097)
 8. [数据科学家最常用的十大机器学习算法](https://zhuanlan.zhihu.com/p/37493944)
+9. [机器学习(Machine Learning)/C/C++/Python/面试笔记](https://github.com/imhuay/Interview_Notes-Chinese)
 
 #### 学习知识点
 
